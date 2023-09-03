@@ -1,0 +1,3 @@
+[submodule "modules/cpp_standalone_lib"]
+	path = modules/cpp_standalone_lib
+	url = https://github.com/bmarques1995/cpp_standalone_lib.git
